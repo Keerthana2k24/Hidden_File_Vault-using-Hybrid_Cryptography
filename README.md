@@ -31,7 +31,19 @@ Users can upload files, encrypt them individually, download the encryption keys,
 
 ## Project Structure
 ```
-├── public │ └── 1.jpg │ ├── src │ ├── components │ │ ├── DecryptionSection.jsx │ │ └── EncryptionSection.jsx │ │ │ ├── App.jsx │ └── main.jsx │ ├── README.md ├── index.html ├── package-lock.json └── package.json
+public
+└── 1.jpg
+src
+├── components
+│   ├── DecryptionSection.jsx
+│   └── EncryptionSection.jsx
+├── App.jsx
+└── main.jsx
+README.md
+index.html
+package-lock.json
+package.json
+
 ```
 ## How to Run Locally
 
