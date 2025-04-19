@@ -1,4 +1,4 @@
-🔒Hidden File Vault using Hybrid Cryptography
+## 🔒Hidden File Vault using Hybrid Cryptography!
 
 ## Overview
 Hidden File Vault is a web-based application that encrypts multiple files using AES encryption and securely hides them within a vault, accessible only through a valid passphrase.
@@ -31,20 +31,12 @@ Users can upload files, encrypt them individually, download the encryption keys,
 
 ## Project Structure
 ```
-/src
-  ├── App.jsx
-  ├── EncryptionSection.jsx
-  ├── DecryptionSection.jsx
-  ├── main.jsx
-/public
-  ├── index.html
-README.md
-package.json
+├── public │ └── 1.jpg │ ├── src │ ├── components │ │ ├── DecryptionSection.jsx │ │ └── EncryptionSection.jsx │ │ │ ├── App.jsx │ └── main.jsx │ ├── README.md ├── index.html ├── package-lock.json └── package.json
 ```
 ## How to Run Locally
 
 Clone the repository:
-git clone https://github.com/your-username/hidden-file-vault.git
+git clone https://github.com/Keerthana2k24/Hidden_File_Vault-using-Hybrid_Cryptography.git
 
 - Install dependencies:
 npm install
