@@ -17,17 +17,17 @@ Users can upload files, encrypt them individually, download the encryption keys,
 
 - Fast, lightweight, and fully browser-based (React + Chakra UI)
 
-- No file or key sent to any server — 100% client-side security
+- No file or key sent to any server - 100% client-side security
 
 ## Technologies Used
 
-- React.js — Frontend framework
+- React.js - Frontend framework
 
-- Chakra UI — UI component library
+- Chakra UI - UI component library
 
-- CryptoJS — AES encryption/decryption
+- CryptoJS - AES encryption/decryption
 
-- Node.js — Backend
+- Node.js - Backend
 
 ## Project Structure
 ```
@@ -40,7 +40,7 @@ Users can upload files, encrypt them individually, download the encryption keys,
   ├── index.html
 README.md
 package.json
-
+```
 ## How to Run Locally
 
 Clone the repository:
